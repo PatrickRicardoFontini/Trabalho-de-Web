@@ -1,0 +1,140 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    background-color: #ffaf00;
+    padding: 20px 10px;
+    box-shadow: 5px 5px 40px ;
+    
+    
+    
+  }
+  
+  h1 {
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  div {
+    text-align: center;
+    width: 100%;
+    
+    
+  }
+  
+  div ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  .menu li {
+    display: inline-block;
+    margin: 5px;
+    text-transform: uppercase;
+    padding: 10px 3px;
+    box-shadow: 1px 1px 10px ;
+    border-radius: 10px;
+    
+    
+  }
+  .menu li a:hover{
+    background-color: rgba(100, 100, 100, 0.5);
+    
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+    
+    
+    
+    
+    
+  }
+  
+
+  
+  
+  main {
+    display: flex;
+    border-radius: 10px;
+  }
+  
+  .fases {
+    flex: 10px;
+    padding: 20px;
+    margin: 10px;
+    border: 10px solid #ddd;
+    text-align: center;
+     }
+
+  .fases img {
+    border-radius: 10px;
+    width: 80%;
+  }
+  
+  aside {
+    flex: 0.09;
+    padding: 10px;
+    margin: 10px;
+    border: 10px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    
+  }
+  
+  
+  .github{
+    width: 50%;
+    align-items: center;
+  }
+  .whatsapp{
+    width: 50%;
+    align-items: center;
+  }
+  .discord{
+    width: 50%;
+    align-items: center;
+  }
+  .insta{
+    width: 50%;
+    align-items: center;
+    
+  }
+  .sobre{
+    text-align: center;
+  }
+  .sobre1{
+    text-align: center;
+  }
+  .musica{
+    width: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  
+    
+  
+  }
+  .textmu{
+    text-align: center;
+  }
+
+  
+  
